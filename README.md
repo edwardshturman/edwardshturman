@@ -31,8 +31,8 @@ I’m a Ukrainian-American computer science major at the University of San Franc
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwardshturman&hide=contribs&count_private=true&show_icons=true&theme=midnight-purple&custom_title=Edward%27s%20GitHub%20Stats&hide_border=true)](https://github.com/edwardshturman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardshturman&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/edwardshturman)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwardshturman&title_color=e6006b&icon_color=e6006b&border_radius=30&hide=contribs&count_private=true&show_icons=true&custom_title=Edward%27s%20GitHub%20Stats&hide_border=true)](https://github.com/edwardshturman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardshturman&title_color=e6006b&border_radius=30&layout=compact&hide_border=true)](https://github.com/edwardshturman)
 
 ---
 
