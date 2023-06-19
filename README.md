@@ -4,7 +4,7 @@ I'm a web developer, interface designer, and full-time computer science student 
 
 Currently, I'm working on my latest project, [Cue][cue] — a web app that transforms students' notes into active recall study questions.
 
-Thanks for visiting my profile! You can learn more about me and connect over at [my website][website], Twitter[twitter], or [read.cv][read.cv].
+Thanks for visiting my profile! You can learn more about me and connect over at [my website][website], [Twitter][twitter], or [read.cv][read.cv].
 
 Have a great day. :)
 
