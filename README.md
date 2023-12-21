@@ -1,15 +1,14 @@
 # `Hi there, I'm Edward`
 
-I'm a web developer, interface designer, and full-time computer science student at the University of San Francisco. I have several years' experience in web design, from WordPress to Next.js. I also founded and run the largest CS club on campus, [compsigh][compsigh].
+I'm a web developer, interface designer, and community builder based in San Francisco.
 
-Currently, I'm working on my latest project, [Cue][cue] — a study app that transforms your notes into active recall questions.
+I'm currently focused on running [compsigh][compsigh], the largest CS club on campus at the University of San Francisco, where I study computer science.
 
-You can learn more about me and connect over at [my website][website], [Twitter][twitter], or [read.cv][read.cv].
+You can learn more about me & what I'm working on, and connect over at [my website][website], [Twitter][twitter], or [read.cv][read.cv].
 
 Have a great day. :)
 
 [compsigh]: https://github.com/compsigh
-[cue]: https://cue.study
 
 [website]: https://edward.so
 [twitter]: https://twitter.com/edwardshturman
